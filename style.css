@@ -1,0 +1,27 @@
+html, body {
+    display: flex;
+    margin: 50px;
+    gap: 12px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  button{
+    height: 50px;
+    width: 50px;
+    
+  }
+  .yellow{
+    background-color: yellow;
+  
+  }
+  .blue{
+    background-color: blue;
+  }
+  .green{
+    background-color: green;
+  }
+
+  #reset{
+    width: 70px;
+  }
